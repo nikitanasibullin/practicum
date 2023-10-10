@@ -17,7 +17,7 @@ int main()
 			std::cout << "x1 = " << (-b + D) / (2 * a) << "       x2 = " << (-b - D) / (2 * a) << std::endl;
 		}
 		else {
-			if (D == 0) { std::cout << "x = " << (-b + D) / (2 * a) << std::endl; }
+			if (D == 0) { std::cout << "x= " << (-b + D) / (2 * a) << std::endl; }
 			else { std::cout << "none" << std::endl; }
 		}
 	}
